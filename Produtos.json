@@ -1,0 +1,17 @@
+{
+    "cloudsystembrasil": {
+        "nome": "Cloud SysteM",
+        "desc": "Cloud SysteM Brasil\nCloud SysteM Brasil\nCloud SysteM Brasil",
+        "preco": "10",
+        "estoque": [],
+        "banner": "https://media.discordapp.net/attachments/1242334467637514311/1243646574513487922/Convite_cloudsystem.jpg?ex=66523ba1&is=6650ea21&hm=4b908d27ee58972a50a728d83723995a90b8123a39573c812dfac5b216059bbe&=&format=webp&width=1295&height=314",
+        "thumb": null,
+        "cor": "#2b2d31",
+        "cupom": "ON",
+        "categoria": null,
+        "idmsg": "1243647509637763075",
+        "idcanal": "1242334467637514311",
+        "cargo": "null",
+        "notify": []
+    }
+}

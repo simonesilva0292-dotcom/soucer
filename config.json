@@ -1,0 +1,47 @@
+{
+    "creator": "1240101527755034687",
+    "color": {
+        "padrao": "#2b2d31"
+    },
+    "vendas": "ON",
+    "canais": {
+        "logs_adm": "",
+        "logs_publica": "",
+        "categoria": "",
+        "cargo_cliente": ""
+    },
+    "paymentauto": {
+        "access_token": "",
+        "pix": "ON",
+        "pagarsite": "ON",
+        "tempopagar": "5"
+    },
+    "paymentsemi": {
+        "pix": "OFF",
+        "chavepix": "",
+        "qrcode": "",
+        "tipochave": ""
+    },
+    "saldo": {
+        "saldo": "ON",
+        "bonus": "0",
+        "minimo": "0",
+        "tipochave": ""
+    },
+    "images": {
+        "banner": "",
+        "thumbnail": ""
+    },
+    "status": {
+        "prensence": "Streaming",
+        "atividade": "Playing",
+        "texto": "Cloud Application's",
+        "url": "https://twitch.tv/discord",
+        "presence": "online"
+    },
+    "termos": "",
+    "bancos_bloqueados": {
+        "nenhum": "nenhum"
+    },
+    "blacklist": []
+}
